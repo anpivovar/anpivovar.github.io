@@ -1,7 +1,8 @@
 ---
 layout: post
-title: ''
-published: false
+title: ESP Thermometer
+published: true
+date: '2016-11-12'
 ---
 ## Having fun with ESP-01 - building an Internet-enabled thermometer
 
